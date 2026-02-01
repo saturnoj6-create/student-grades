@@ -1,7 +1,7 @@
 {
   "Klarenz L. Bacud": {
-    "year": 2,
-    "semester": "SUM",
+    "year": 3,
+    "semester": 1,
     "section": "A",
     "grades": {
       "GEC 101": 97,
@@ -67,7 +67,8 @@
       "GE Elect 26": 88,
       "Math 121E": 90,
       "ABE 212": 90,
-      "Math 221E": 90
+      "Math 221E": 90,
+      "ABE 314": 85
     },
     "gradeHistory": {
       "GEC 101": [
@@ -773,12 +774,23 @@
             "sem": 1
           }
         }
+      ],
+      "ABE 314": [
+        {
+          "grade": 85,
+          "term": "3Y-1S",
+          "date": "2026-02-01T15:35:49.146Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
       ]
     },
     "enrolledSubjects": [],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1769960115832
+    "lastModified": 1769960149146
   },
   "Kaerol Zamora": {
     "year": 4,
