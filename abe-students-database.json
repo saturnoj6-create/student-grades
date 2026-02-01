@@ -62,7 +62,8 @@
       "ABE 413": 87,
       "ABE 414": 82,
       "ABE 415": 88,
-      "ABE 416": 89
+      "ABE 416": 89,
+      "Math 111E": 91
     },
     "gradeHistory": {
       "GEC 101": [
@@ -713,12 +714,23 @@
             "sem": 1
           }
         }
+      ],
+      "Math 111E": [
+        {
+          "grade": 91,
+          "term": "1Y-1S",
+          "date": "2026-02-01T15:33:04.044Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 1
+          }
+        }
       ]
     },
     "enrolledSubjects": [],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1769959929710
+    "lastModified": 1769959984044
   },
   "Kaerol Zamora": {
     "year": 4,
