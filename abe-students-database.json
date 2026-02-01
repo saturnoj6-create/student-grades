@@ -5182,7 +5182,7 @@
   },
   "Kaerol Zamora": {
     "year": 4,
-    "semester": 1,
+    "semester": 2,
     "section": "A",
     "grades": {
       "GEC 101": 96,
@@ -5872,10 +5872,12 @@
         }
       ]
     },
-    "enrolledSubjects": [],
+    "enrolledSubjects": [
+      "ABE 416"
+    ],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1769962981050
+    "lastModified": 1769964033749
   },
   "CHARISSE VICTORIA A. BAYANI": {
     "year": 4,
