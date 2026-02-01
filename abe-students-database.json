@@ -65,7 +65,8 @@
       "ABE 416": 89,
       "Math 111E": 91,
       "GE Elect 26": 88,
-      "Math 121E": 90
+      "Math 121E": 90,
+      "ABE 212": 90
     },
     "gradeHistory": {
       "GEC 101": [
@@ -749,12 +750,23 @@
             "sem": 2
           }
         }
+      ],
+      "ABE 212": [
+        {
+          "grade": 90,
+          "term": "2Y-1S",
+          "date": "2026-02-01T15:34:52.803Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
       ]
     },
     "enrolledSubjects": [],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1769960055339
+    "lastModified": 1769960092803
   },
   "Kaerol Zamora": {
     "year": 4,
