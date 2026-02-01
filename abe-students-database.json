@@ -1,7 +1,7 @@
 {
   "Klarenz L. Bacud": {
     "year": 1,
-    "semester": 2,
+    "semester": "SUM",
     "section": "A",
     "grades": {
       "GEC 101": 97,
@@ -754,7 +754,7 @@
     "enrolledSubjects": [],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1769960034677
+    "lastModified": 1769960046748
   },
   "Kaerol Zamora": {
     "year": 4,
