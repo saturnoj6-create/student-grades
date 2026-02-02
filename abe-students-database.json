@@ -11391,30 +11391,5 @@
     "status": "REGULAR",
     "failedSubjects": [],
     "lastModified": 1769962981050
-  },
-  "ABE DEPARTMENT": {
-    "year": 1,
-    "semester": "1",
-    "section": "A",
-    "grades": {
-      "GEC 103": 99
-    },
-    "gradeHistory": {
-      "GEC 103": [
-        {
-          "grade": 99,
-          "term": "1Y-1S",
-          "date": "2026-02-02T08:10:02.332Z",
-          "yearSem": {
-            "year": 1,
-            "sem": "1"
-          }
-        }
-      ]
-    },
-    "enrolledSubjects": [],
-    "status": "REGULAR",
-    "lastModified": 1770019802332,
-    "failedSubjects": []
   }
 }
