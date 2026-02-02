@@ -11391,15 +11391,5 @@
     "status": "REGULAR",
     "failedSubjects": [],
     "lastModified": 1769962981050
-  },
-  "ABE DEPARTMENT": {
-    "year": 1,
-    "semester": "1",
-    "section": "A",
-    "grades": {},
-    "gradeHistory": {},
-    "enrolledSubjects": [],
-    "status": "REGULAR",
-    "lastModified": 1770018501751
   }
 }
