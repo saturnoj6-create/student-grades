@@ -11638,7 +11638,10 @@
           "yearSem": {
             "year": 1,
             "sem": 2
-          }
+          },
+          "deleted": true,
+          "deletedDate": "2026-02-03T10:23:20.999Z",
+          "deletedBy": "Admin"
         }
       ],
       "GEC 101": [
@@ -12011,6 +12014,6 @@
     ],
     "status": "IRREGULAR",
     "failedSubjects": [],
-    "lastModified": 1770114180271
+    "lastModified": 1770114200999
   }
 }
