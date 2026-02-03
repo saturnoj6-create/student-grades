@@ -11696,6 +11696,15 @@
             "year": 1,
             "sem": 2
           }
+        },
+        {
+          "grade": 85,
+          "term": "1Y-2S",
+          "date": "2026-02-03T10:09:27.276Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
         }
       ],
       "PE 12": [
@@ -11990,6 +11999,6 @@
     ],
     "status": "IRREGULAR",
     "failedSubjects": [],
-    "lastModified": 1770113355895
+    "lastModified": 1770113367276
   }
 }
