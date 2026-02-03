@@ -6624,8 +6624,7 @@
       "ABE 314": 92,
       "ABE 221": 96,
       "ABE 313": 95,
-      "Math 111": 88,
-      "Math 121": 98
+      "Math 111": 88
     },
     "gradeHistory": {
       "GEC 103": [
@@ -7131,23 +7130,12 @@
             "sem": 1
           }
         }
-      ],
-      "Math 121": [
-        {
-          "grade": 98,
-          "term": "1Y-2S",
-          "date": "2026-02-03T07:59:39.317Z",
-          "yearSem": {
-            "year": 1,
-            "sem": 2
-          }
-        }
       ]
     },
     "enrolledSubjects": [],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1770110502879
+    "lastModified": 1770110509588
   },
   "King Marcon V. Apil": {
     "year": 3,
