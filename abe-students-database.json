@@ -9302,7 +9302,8 @@
       "GEC 109": 96,
       "GEC 106": 95,
       "ABE 221": 90,
-      "ABE 313": 93
+      "ABE 313": 93,
+      "Soil Sci 1": 85
     },
     "gradeHistory": {
       "NSTP 1": [
@@ -9463,6 +9464,15 @@
           "deleted": true,
           "deletedDate": "2026-02-03T10:02:36.742Z",
           "deletedBy": "Admin"
+        },
+        {
+          "grade": 85,
+          "term": "1Y-2S",
+          "date": "2026-02-03T10:02:43.681Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
         }
       ],
       "Phy 121E": [
@@ -9832,7 +9842,7 @@
     "enrolledSubjects": [],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1770112956742
+    "lastModified": 1770112963681
   },
   "ADREAN FAITH G. VIERNES": {
     "year": 3,
