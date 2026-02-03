@@ -9256,7 +9256,7 @@
     "lastModified": 1769962981050
   },
   "Allayza C. Tungcul": {
-    "year": 1,
+    "year": 3,
     "semester": 2,
     "section": "A",
     "grades": {
@@ -9424,7 +9424,10 @@
           "yearSem": {
             "year": 1,
             "sem": 2
-          }
+          },
+          "deleted": true,
+          "deletedDate": "2026-02-03T09:53:20.223Z",
+          "deletedBy": "Admin"
         },
         {
           "grade": 85,
@@ -9815,7 +9818,7 @@
     "enrolledSubjects": [],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1770112394184
+    "lastModified": 1770112409381
   },
   "ADREAN FAITH G. VIERNES": {
     "year": 3,
