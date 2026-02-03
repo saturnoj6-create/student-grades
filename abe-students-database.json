@@ -6797,7 +6797,10 @@
           "yearSem": {
             "year": 1,
             "sem": 2
-          }
+          },
+          "deleted": true,
+          "deletedDate": "2026-02-03T09:34:18.601Z",
+          "deletedBy": "Admin"
         }
       ],
       "Bio 1": [
