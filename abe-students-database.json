@@ -11704,7 +11704,10 @@
           "yearSem": {
             "year": 1,
             "sem": 2
-          }
+          },
+          "deleted": true,
+          "deletedDate": "2026-02-03T10:09:35.993Z",
+          "deletedBy": "Admin"
         }
       ],
       "PE 12": [
@@ -11999,6 +12002,6 @@
     ],
     "status": "IRREGULAR",
     "failedSubjects": [],
-    "lastModified": 1770113367276
+    "lastModified": 1770113375994
   }
 }
