@@ -209,10 +209,7 @@
           "yearSem": {
             "year": 1,
             "sem": 2
-          },
-          "deleted": true,
-          "deletedDate": "2026-02-03T10:08:32.210Z",
-          "deletedBy": "Admin"
+          }
         },
         {
           "grade": 76,
@@ -547,7 +544,7 @@
     "enrolledSubjects": [
       "ABE 314"
     ],
-    "status": "IRREGULAR",
+    "status": "REGULAR",
     "failedSubjects": [],
     "lastModified": 1769962981050
   },
@@ -8745,7 +8742,7 @@
     "lastModified": 1769962981050
   },
   "Eula T. Lara": {
-    "year": 3,
+    "year": 1,
     "semester": 1,
     "section": "A",
     "grades": {
@@ -9256,7 +9253,7 @@
     "enrolledSubjects": [],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1769962981050
+    "lastModified": 1770160658723
   },
   "Allayza C. Tungcul": {
     "year": 1,
