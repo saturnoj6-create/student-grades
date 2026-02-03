@@ -8743,7 +8743,7 @@
   },
   "Eula T. Lara": {
     "year": 2,
-    "semester": 2,
+    "semester": "SUM",
     "section": "A",
     "grades": {
       "GEC 103": 90,
@@ -9250,10 +9250,12 @@
         }
       ]
     },
-    "enrolledSubjects": [],
-    "status": "REGULAR",
+    "enrolledSubjects": [
+      "ABE 221"
+    ],
+    "status": "IRREGULAR",
     "failedSubjects": [],
-    "lastModified": 1770160695202
+    "lastModified": 1770160711378
   },
   "Allayza C. Tungcul": {
     "year": 1,
