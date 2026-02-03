@@ -209,7 +209,10 @@
           "yearSem": {
             "year": 1,
             "sem": 2
-          }
+          },
+          "deleted": true,
+          "deletedDate": "2026-02-03T10:08:32.210Z",
+          "deletedBy": "Admin"
         },
         {
           "grade": 76,
@@ -544,7 +547,7 @@
     "enrolledSubjects": [
       "ABE 314"
     ],
-    "status": "REGULAR",
+    "status": "IRREGULAR",
     "failedSubjects": [],
     "lastModified": 1769962981050
   },
