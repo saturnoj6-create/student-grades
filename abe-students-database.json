@@ -11630,6 +11630,15 @@
             "year": 1,
             "sem": 2
           }
+        },
+        {
+          "grade": 86,
+          "term": "1Y-2S",
+          "date": "2026-02-03T10:23:00.269Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
         }
       ],
       "GEC 101": [
@@ -12002,6 +12011,6 @@
     ],
     "status": "IRREGULAR",
     "failedSubjects": [],
-    "lastModified": 1770113375994
+    "lastModified": 1770114180271
   }
 }
