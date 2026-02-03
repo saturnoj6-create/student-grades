@@ -11502,6 +11502,15 @@
             "year": 1,
             "sem": "1"
           }
+        },
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-03T10:04:02.664Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 1
+          }
         }
       ],
       "GEC 104": [
@@ -11975,6 +11984,6 @@
     ],
     "status": "IRREGULAR",
     "failedSubjects": [],
-    "lastModified": 1770113037481
+    "lastModified": 1770113042664
   }
 }
