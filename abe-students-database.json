@@ -9270,7 +9270,6 @@
       "PE 11": 95,
       "Chem 111E": 78,
       "GE Elect 26": 92,
-      "Soil Sci 1": 85,
       "Phy 121E": 82,
       "NSTP 2": 93,
       "Bio 1": 91,
@@ -9426,7 +9425,7 @@
             "sem": 2
           },
           "deleted": true,
-          "deletedDate": "2026-02-03T09:53:20.223Z",
+          "deletedDate": "2026-02-03T10:01:55.229Z",
           "deletedBy": "Admin"
         },
         {
@@ -9438,7 +9437,7 @@
             "sem": 2
           },
           "deleted": true,
-          "deletedDate": "2026-02-03T09:51:50.141Z",
+          "deletedDate": "2026-02-03T10:01:55.231Z",
           "deletedBy": "Admin"
         },
         {
@@ -9448,7 +9447,10 @@
           "yearSem": {
             "year": 1,
             "sem": 2
-          }
+          },
+          "deleted": true,
+          "deletedDate": "2026-02-03T10:01:55.231Z",
+          "deletedBy": "Admin"
         }
       ],
       "Phy 121E": [
