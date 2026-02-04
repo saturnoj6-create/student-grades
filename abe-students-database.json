@@ -20010,7 +20010,7 @@
   },
   "Lupani, Zeny D.": {
     "year": 2,
-    "semester": 1,
+    "semester": 2,
     "section": "A",
     "grades": {
       "GEC 103": 90,
@@ -20262,8 +20262,17 @@
         }
       ]
     },
-    "enrolledSubjects": [],
-    "status": "REGULAR",
+    "enrolledSubjects": [
+      "ES 007",
+      "An Sci 1",
+      "Crop Sci 1",
+      "ABE 211",
+      "Math 211E",
+      "ABE 212",
+      "PE 13",
+      "Math 221E"
+    ],
+    "status": "IRREGULAR",
     "failedSubjects": [],
     "retakeSchedule": {
       "Math 111E": {
@@ -20275,7 +20284,7 @@
         "semester": 2
       }
     },
-    "lastModified": 1770192874153
+    "lastModified": 1770192898390
   },
   "Malazzab, Marie Ann D.": {
     "year": 2,
