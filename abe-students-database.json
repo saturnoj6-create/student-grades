@@ -13794,7 +13794,7 @@
     "lastModified": 1770193750328
   },
   "Lupani Zeny D": {
-    "year": 1,
+    "year": 2,
     "semester": 2,
     "section": "A",
     "grades": {
@@ -14051,7 +14051,7 @@
       "Math 111E",
       "GE Elect 25"
     ],
-    "status": "REGULAR",
+    "status": "IRREGULAR",
     "failedSubjects": [],
     "retakeSchedule": {
       "Math 111E": {
@@ -14063,7 +14063,7 @@
         "semester": 2
       }
     },
-    "lastModified": 1770193680193
+    "lastModified": 1770194296033
   },
   "Agaceta, Michaela Shen C.": {
     "year": 3,
