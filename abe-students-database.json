@@ -20010,7 +20010,7 @@
   },
   "Lupani, Zeny D.": {
     "year": 1,
-    "semester": 2,
+    "semester": "SUM",
     "section": "A",
     "grades": {
       "GEC 103": 90,
@@ -20262,10 +20262,7 @@
         }
       ]
     },
-    "enrolledSubjects": [
-      "Math 111E",
-      "GE Elect 25"
-    ],
+    "enrolledSubjects": [],
     "status": "REGULAR",
     "failedSubjects": [],
     "retakeSchedule": {
@@ -20278,7 +20275,7 @@
         "semester": 2
       }
     },
-    "lastModified": 1770161390792
+    "lastModified": 1770192868647
   },
   "Malazzab, Marie Ann D.": {
     "year": 2,
