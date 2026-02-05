@@ -23691,5 +23691,2595 @@
     "status": "IRREGULAR",
     "failedSubjects": [],
     "lastModified": 1770194329063
+  },
+  "Ceria, Joem A.": {
+    "year": 3,
+    "semester": 2,
+    "section": "A",
+    "grades": {
+      "PE 11": 95,
+      "Chem 111E": 81,
+      "NSTP 1": 96,
+      "Math 111E": 76,
+      "ABE 111": 89,
+      "GE Elect 24": 79,
+      "GEC 103": 94,
+      "GE Elect 25": 75,
+      "GEC 104": 94,
+      "GE Elect 26": 92,
+      "GEC 102": 76,
+      "GEC 101": 91,
+      "ES 001": 94,
+      "Math 121E": 77,
+      "Phy 121E": 77,
+      "Bio 1": 91,
+      "Soil Sci 1": 80,
+      "PE 12": 95,
+      "NSTP 2": 98,
+      "ES 007": 94,
+      "An Sci 1": 95,
+      "Crop Sci 1": 82,
+      "ABE 211": 76,
+      "Math 211E": 80,
+      "ABE 212": 92,
+      "PE 13": 92,
+      "Math 221E": 88,
+      "GEC 108": 94,
+      "GEC 107": 82,
+      "GEC 105": 95,
+      "ES 006": 90,
+      "ES 014": 87,
+      "ES 016": 88,
+      "PE 14": 92,
+      "COMP 1": 93,
+      "GEC 109": 94,
+      "GEC 106": 94,
+      "ES 002": 90,
+      "ES 009": 77,
+      "ABE 311": 85,
+      "ABE 312": 82
+    },
+    "gradeHistory": {
+      "PE 11": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-03T10:23:30.186Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 81,
+          "term": "1Y-1S",
+          "date": "2026-02-03T10:23:43.896Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 96,
+          "term": "1Y-1S",
+          "date": "2026-02-03T10:23:51.321Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 76,
+          "term": "1Y-1S",
+          "date": "2026-02-03T10:23:57.619Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 89,
+          "term": "1Y-1S",
+          "date": "2026-02-03T10:24:07.890Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 79,
+          "term": "1Y-1S",
+          "date": "2026-02-03T10:24:14.147Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 103": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-03T10:24:23.212Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 75,
+          "term": "1Y-1S",
+          "date": "2026-02-03T10:24:30.824Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 104": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-03T10:24:42.811Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 26": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-03T10:25:19.713Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 102": [
+        {
+          "grade": 76,
+          "term": "1Y-2S",
+          "date": "2026-02-03T10:26:39.629Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 101": [
+        {
+          "grade": 91,
+          "term": "1Y-2S",
+          "date": "2026-02-03T10:26:46.542Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 001": [
+        {
+          "grade": 94,
+          "term": "1Y-2S",
+          "date": "2026-02-03T10:26:52.441Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Math 121E": [
+        {
+          "grade": 77,
+          "term": "1Y-2S",
+          "date": "2026-02-03T10:26:59.950Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Phy 121E": [
+        {
+          "grade": 77,
+          "term": "1Y-2S",
+          "date": "2026-02-03T10:27:07.037Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Bio 1": [
+        {
+          "grade": 91,
+          "term": "1Y-2S",
+          "date": "2026-02-03T10:27:12.326Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Soil Sci 1": [
+        {
+          "grade": 80,
+          "term": "1Y-2S",
+          "date": "2026-02-03T10:27:18.530Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "PE 12": [
+        {
+          "grade": 95,
+          "term": "1Y-2S",
+          "date": "2026-02-03T10:27:22.985Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "NSTP 2": [
+        {
+          "grade": 98,
+          "term": "1Y-2S",
+          "date": "2026-02-03T10:27:32.689Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 007": [
+        {
+          "grade": 94,
+          "term": "2Y-1S",
+          "date": "2026-02-03T10:28:20.202Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "An Sci 1": [
+        {
+          "grade": 95,
+          "term": "2Y-1S",
+          "date": "2026-02-03T10:28:26.544Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Crop Sci 1": [
+        {
+          "grade": 82,
+          "term": "2Y-1S",
+          "date": "2026-02-03T10:28:31.359Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 211": [
+        {
+          "grade": 76,
+          "term": "2Y-1S",
+          "date": "2026-02-03T10:28:46.749Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Math 211E": [
+        {
+          "grade": 80,
+          "term": "2Y-1S",
+          "date": "2026-02-03T10:28:58.967Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 212": [
+        {
+          "grade": 92,
+          "term": "2Y-1S",
+          "date": "2026-02-03T10:29:05.093Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "PE 13": [
+        {
+          "grade": 92,
+          "term": "2Y-1S",
+          "date": "2026-02-03T10:29:10.901Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Math 221E": [
+        {
+          "grade": 88,
+          "term": "2Y-1S",
+          "date": "2026-02-03T10:29:17.254Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "GEC 108": [
+        {
+          "grade": 94,
+          "term": "2Y-2S",
+          "date": "2026-02-03T10:29:58.966Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 107": [
+        {
+          "grade": 82,
+          "term": "2Y-2S",
+          "date": "2026-02-03T10:30:06.351Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 105": [
+        {
+          "grade": 95,
+          "term": "2Y-2S",
+          "date": "2026-02-03T10:30:12.066Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 006": [
+        {
+          "grade": 90,
+          "term": "2Y-2S",
+          "date": "2026-02-03T10:30:17.696Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 014": [
+        {
+          "grade": 87,
+          "term": "2Y-2S",
+          "date": "2026-02-03T10:30:21.806Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 016": [
+        {
+          "grade": 88,
+          "term": "2Y-2S",
+          "date": "2026-02-03T10:30:27.607Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "PE 14": [
+        {
+          "grade": 92,
+          "term": "2Y-2S",
+          "date": "2026-02-03T10:30:38.815Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "COMP 1": [
+        {
+          "grade": 93,
+          "term": "2Y-2S",
+          "date": "2026-02-03T10:30:44.047Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 109": [
+        {
+          "grade": 94,
+          "term": "3Y-1S",
+          "date": "2026-02-03T10:31:31.598Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "GEC 106": [
+        {
+          "grade": 94,
+          "term": "3Y-1S",
+          "date": "2026-02-03T10:31:36.382Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ES 002": [
+        {
+          "grade": 90,
+          "term": "3Y-1S",
+          "date": "2026-02-03T10:32:20.953Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ES 009": [
+        {
+          "grade": 77,
+          "term": "3Y-1S",
+          "date": "2026-02-03T10:32:26.213Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 311": [
+        {
+          "grade": 85,
+          "term": "3Y-1S",
+          "date": "2026-02-03T10:32:32.663Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 312": [
+        {
+          "grade": 82,
+          "term": "3Y-1S",
+          "date": "2026-02-03T10:32:37.465Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [
+      "ABE 314"
+    ],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1770267303806
+  },
+  "Sonido, Marjorie E.": {
+    "year": 3,
+    "semester": 1,
+    "section": "A",
+    "grades": {
+      "GEC 103": 93,
+      "GEC 104": 92,
+      "Chem 111E": 81,
+      "Math 111E": 78,
+      "ABE 111": 91,
+      "PE 11": 96,
+      "NSTP 1": 85,
+      "GE Elect 24": 75,
+      "GE Elect 25": 81,
+      "GE Elect 26": 95,
+      "GEC 102": 77,
+      "GEC 101": 93,
+      "ES 001": 84,
+      "Math 121E": 77,
+      "Phy 121E": 79,
+      "Soil Sci 1": 87,
+      "PE 12": 97,
+      "Bio 1": 89,
+      "NSTP 2": 92,
+      "PE 13": 95,
+      "Math 211E": 82,
+      "ABE 211": 78,
+      "ABE 212": 93,
+      "ES 007": 97,
+      "Math 221E": 91,
+      "An Sci 1": 95,
+      "Crop Sci 1": 85,
+      "COMP 1": 94,
+      "GEC 107": 82,
+      "GEC 105": 94,
+      "ES 006": 94,
+      "ES 014": 89,
+      "ES 016": 93,
+      "PE 14": 92,
+      "GEC 108": 95,
+      "ABE 311": 87,
+      "ABE 312": 82,
+      "GEC 109": 95,
+      "GEC 106": 96,
+      "ES 002": 87,
+      "ES 009": 84,
+      "ABE 221": 88,
+      "ABE 313": 88
+    },
+    "gradeHistory": {
+      "GEC 103": [
+        {
+          "grade": 93,
+          "term": "1Y-1S",
+          "date": "2026-02-01T04:51:14.074Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 104": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-01T04:51:41.690Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 81,
+          "term": "1Y-1S",
+          "date": "2026-02-01T04:51:57.104Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 78,
+          "term": "1Y-1S",
+          "date": "2026-02-01T04:52:06.137Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 91,
+          "term": "1Y-1S",
+          "date": "2026-02-01T04:52:18.185Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "PE 11": [
+        {
+          "grade": 96,
+          "term": "1Y-1S",
+          "date": "2026-02-01T04:52:34.419Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 85,
+          "term": "1Y-1S",
+          "date": "2026-02-01T04:52:44.605Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 75,
+          "term": "1Y-1S",
+          "date": "2026-02-01T04:52:53.801Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 81,
+          "term": "1Y-1S",
+          "date": "2026-02-01T04:53:06.501Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 26": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-01T05:01:19.631Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 102": [
+        {
+          "grade": 77,
+          "term": "1Y-2S",
+          "date": "2026-02-01T05:01:53.413Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 101": [
+        {
+          "grade": 93,
+          "term": "1Y-2S",
+          "date": "2026-02-01T05:02:03.930Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 001": [
+        {
+          "grade": 84,
+          "term": "1Y-2S",
+          "date": "2026-02-01T05:02:14.834Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Math 121E": [
+        {
+          "grade": 77,
+          "term": "1Y-2S",
+          "date": "2026-02-01T05:02:44.296Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Phy 121E": [
+        {
+          "grade": 79,
+          "term": "1Y-2S",
+          "date": "2026-02-01T05:02:52.911Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Soil Sci 1": [
+        {
+          "grade": 87,
+          "term": "1Y-2S",
+          "date": "2026-02-01T05:03:13.993Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "PE 12": [
+        {
+          "grade": 97,
+          "term": "1Y-2S",
+          "date": "2026-02-01T05:03:27.609Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Bio 1": [
+        {
+          "grade": 89,
+          "term": "1Y-2S",
+          "date": "2026-02-01T05:03:48.509Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "NSTP 2": [
+        {
+          "grade": 92,
+          "term": "1Y-2S",
+          "date": "2026-02-03T08:47:42.818Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "PE 13": [
+        {
+          "grade": 95,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:51:42.543Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Math 211E": [
+        {
+          "grade": 82,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:51:57.769Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 211": [
+        {
+          "grade": 78,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:52:13.208Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 212": [
+        {
+          "grade": 93,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:52:31.241Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "ES 007": [
+        {
+          "grade": 97,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:52:49.000Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Math 221E": [
+        {
+          "grade": 91,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:53:01.652Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "An Sci 1": [
+        {
+          "grade": 95,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:53:12.001Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Crop Sci 1": [
+        {
+          "grade": 85,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:53:33.156Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "COMP 1": [
+        {
+          "grade": 94,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:54:08.487Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 107": [
+        {
+          "grade": 82,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:54:18.239Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 105": [
+        {
+          "grade": 94,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:54:45.246Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 006": [
+        {
+          "grade": 94,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:54:59.426Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 014": [
+        {
+          "grade": 89,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:55:05.558Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 016": [
+        {
+          "grade": 93,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:55:20.354Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "PE 14": [
+        {
+          "grade": 92,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:55:31.800Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 108": [
+        {
+          "grade": 95,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:55:38.136Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ABE 311": [
+        {
+          "grade": 87,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:56:44.598Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 312": [
+        {
+          "grade": 82,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:56:59.184Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "GEC 109": [
+        {
+          "grade": 95,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:57:08.208Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "GEC 106": [
+        {
+          "grade": 96,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:57:26.194Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ES 002": [
+        {
+          "grade": 87,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:57:41.221Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ES 009": [
+        {
+          "grade": 84,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:57:48.414Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 221": [
+        {
+          "grade": 88,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:58:22.711Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ABE 313": [
+        {
+          "grade": 88,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:59:20.220Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1770267303806
+  },
+  "Eleazar, Saldy P.": {
+    "year": 3,
+    "semester": 1,
+    "section": "A",
+    "grades": {
+      "GEC 103": 92,
+      "GEC 104": 95,
+      "Chem 111E": 86,
+      "Math 111E": 81,
+      "ABE 111": 85,
+      "PE 11": 98,
+      "NSTP 1": 95,
+      "GE Elect 24": 81,
+      "GE Elect 25": 82,
+      "GEC 102": 84,
+      "GEC 101": 91,
+      "ES 001": 79,
+      "Math 121E": 77,
+      "Phy 121E": 81,
+      "Bio 1": 95,
+      "Soil Sci 1": 85,
+      "PE 12": 95,
+      "NSTP 2": 90,
+      "GE Elect 26": 93,
+      "ES 007": 97,
+      "An Sci 1": 95,
+      "Crop Sci 1": 85,
+      "ABE 211": 82,
+      "Math 211E": 85,
+      "ABE 212": 91,
+      "PE 13": 95,
+      "Math 221E": 89,
+      "GEC 108": 96,
+      "GEC 107": 81,
+      "GEC 105": 96,
+      "ES 006": 95,
+      "ES 014": 84,
+      "ES 016": 93,
+      "PE 14": 92,
+      "COMP 1": 94,
+      "GEC 109": 95,
+      "GEC 106": 95,
+      "ES 002": 91,
+      "ES 009": 83,
+      "ABE 311": 86,
+      "ABE 312": 86,
+      "ABE 221": 88,
+      "ABE 313": 94
+    },
+    "gradeHistory": {
+      "GEC 103": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-01T12:28:36.746Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 104": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-01T12:29:18.127Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 86,
+          "term": "1Y-1S",
+          "date": "2026-02-01T12:30:22.046Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 81,
+          "term": "1Y-1S",
+          "date": "2026-02-01T12:30:32.087Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 85,
+          "term": "1Y-1S",
+          "date": "2026-02-01T12:30:42.229Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "PE 11": [
+        {
+          "grade": 98,
+          "term": "1Y-1S",
+          "date": "2026-02-01T12:30:53.216Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-01T12:30:58.501Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 81,
+          "term": "1Y-1S",
+          "date": "2026-02-01T12:31:05.324Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 82,
+          "term": "1Y-1S",
+          "date": "2026-02-01T12:31:15.001Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 102": [
+        {
+          "grade": 84,
+          "term": "1Y-2S",
+          "date": "2026-02-01T12:33:33.228Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 101": [
+        {
+          "grade": 91,
+          "term": "1Y-2S",
+          "date": "2026-02-01T12:33:41.146Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 001": [
+        {
+          "grade": 79,
+          "term": "1Y-2S",
+          "date": "2026-02-01T12:33:46.833Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Math 121E": [
+        {
+          "grade": 77,
+          "term": "1Y-2S",
+          "date": "2026-02-01T12:33:53.751Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Phy 121E": [
+        {
+          "grade": 81,
+          "term": "1Y-2S",
+          "date": "2026-02-01T12:34:03.839Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Bio 1": [
+        {
+          "grade": 95,
+          "term": "1Y-2S",
+          "date": "2026-02-01T12:34:14.877Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Soil Sci 1": [
+        {
+          "grade": 85,
+          "term": "1Y-2S",
+          "date": "2026-02-01T12:34:21.346Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "PE 12": [
+        {
+          "grade": 95,
+          "term": "1Y-2S",
+          "date": "2026-02-01T12:34:34.309Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "NSTP 2": [
+        {
+          "grade": 90,
+          "term": "1Y-2S",
+          "date": "2026-02-01T12:34:40.187Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "GE Elect 26": [
+        {
+          "grade": 93,
+          "term": "1Y-2S",
+          "date": "2026-02-01T12:35:08.393Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 007": [
+        {
+          "grade": 97,
+          "term": "2Y-1S",
+          "date": "2026-02-01T12:36:17.965Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "An Sci 1": [
+        {
+          "grade": 95,
+          "term": "2Y-1S",
+          "date": "2026-02-01T12:36:27.208Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Crop Sci 1": [
+        {
+          "grade": 85,
+          "term": "2Y-1S",
+          "date": "2026-02-01T12:36:41.591Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 211": [
+        {
+          "grade": 82,
+          "term": "2Y-1S",
+          "date": "2026-02-01T12:36:48.929Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Math 211E": [
+        {
+          "grade": 85,
+          "term": "2Y-1S",
+          "date": "2026-02-01T12:37:12.640Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 212": [
+        {
+          "grade": 91,
+          "term": "2Y-1S",
+          "date": "2026-02-01T12:37:19.907Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "PE 13": [
+        {
+          "grade": 95,
+          "term": "2Y-1S",
+          "date": "2026-02-01T12:37:27.597Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Math 221E": [
+        {
+          "grade": 89,
+          "term": "2Y-1S",
+          "date": "2026-02-01T12:37:33.232Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "GEC 108": [
+        {
+          "grade": 96,
+          "term": "2Y-2S",
+          "date": "2026-02-01T12:37:58.518Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 107": [
+        {
+          "grade": 81,
+          "term": "2Y-2S",
+          "date": "2026-02-01T12:38:04.174Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 105": [
+        {
+          "grade": 96,
+          "term": "2Y-2S",
+          "date": "2026-02-01T12:38:10.454Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 006": [
+        {
+          "grade": 95,
+          "term": "2Y-2S",
+          "date": "2026-02-01T12:38:16.600Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 014": [
+        {
+          "grade": 84,
+          "term": "2Y-2S",
+          "date": "2026-02-01T12:38:23.764Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 016": [
+        {
+          "grade": 93,
+          "term": "2Y-2S",
+          "date": "2026-02-01T12:38:29.238Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "PE 14": [
+        {
+          "grade": 92,
+          "term": "2Y-2S",
+          "date": "2026-02-01T12:39:07.151Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "COMP 1": [
+        {
+          "grade": 94,
+          "term": "2Y-2S",
+          "date": "2026-02-01T12:39:19.269Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 109": [
+        {
+          "grade": 95,
+          "term": "3Y-1S",
+          "date": "2026-02-01T12:40:15.180Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "GEC 106": [
+        {
+          "grade": 95,
+          "term": "3Y-1S",
+          "date": "2026-02-01T12:40:21.481Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ES 002": [
+        {
+          "grade": 91,
+          "term": "3Y-1S",
+          "date": "2026-02-01T12:40:27.141Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ES 009": [
+        {
+          "grade": 83,
+          "term": "3Y-1S",
+          "date": "2026-02-01T12:40:32.371Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 311": [
+        {
+          "grade": 86,
+          "term": "3Y-1S",
+          "date": "2026-02-01T12:40:38.561Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 312": [
+        {
+          "grade": 86,
+          "term": "3Y-1S",
+          "date": "2026-02-01T12:40:49.162Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 221": [
+        {
+          "grade": 88,
+          "term": "2Y-2S",
+          "date": "2026-02-01T12:50:21.895Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ABE 313": [
+        {
+          "grade": 94,
+          "term": "3Y-1S",
+          "date": "2026-02-01T12:50:58.744Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [
+      "ABE 314"
+    ],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1770267303806
+  },
+  "MACATUGGAL, ERIKA MAE M.": {
+    "year": 3,
+    "semester": 2,
+    "section": "A",
+    "grades": {
+      "GEC 103": 90,
+      "GEC 104": 95,
+      "Chem 111E": 78,
+      "Math 111E": 76,
+      "ABE 111": 92,
+      "PE 11": 95,
+      "NSTP 1": 94,
+      "GE Elect 24": 76,
+      "GE Elect 25": 83,
+      "GE Elect 26": 89,
+      "GEC 102": 76,
+      "GEC 101": 87,
+      "ES 001": 92,
+      "Math 121E": 77,
+      "Phy 121E": 78,
+      "Bio 1": 91,
+      "Soil Sci 1": 83,
+      "PE 12": 96,
+      "NSTP 2": 87,
+      "ES 007": 98,
+      "An Sci 1": 95,
+      "Crop Sci 1": 81,
+      "ABE 211": 75,
+      "Math 211E": 86,
+      "ABE 212": 92,
+      "PE 13": 90,
+      "Math 221E": 86,
+      "GEC 108": 95,
+      "GEC 107": 83,
+      "GEC 105": 96,
+      "ES 006": 91,
+      "ES 014": 81,
+      "ES 016": 89,
+      "COMP 1": 94,
+      "PE 14": 91,
+      "ABE 311": 80,
+      "ABE 312": 75,
+      "GEC 109": 95,
+      "GEC 106": 94,
+      "ES 002": 88,
+      "ES 009": 82
+    },
+    "gradeHistory": {
+      "GEC 103": [
+        {
+          "grade": 90,
+          "term": "1Y-1S",
+          "date": "2026-02-04T12:37:57.359Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 104": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-04T12:38:11.581Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 78,
+          "term": "1Y-1S",
+          "date": "2026-02-04T12:38:25.085Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 76,
+          "term": "1Y-1S",
+          "date": "2026-02-04T12:38:35.983Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-04T12:38:52.976Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "PE 11": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-04T12:39:09.962Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-04T12:39:20.711Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 76,
+          "term": "1Y-1S",
+          "date": "2026-02-04T12:39:42.332Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 83,
+          "term": "1Y-1S",
+          "date": "2026-02-04T12:39:49.003Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 26": [
+        {
+          "grade": 89,
+          "term": "1Y-1S",
+          "date": "2026-02-04T12:40:14.359Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 102": [
+        {
+          "grade": 76,
+          "term": "1Y-2S",
+          "date": "2026-02-04T12:41:11.890Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 101": [
+        {
+          "grade": 87,
+          "term": "1Y-2S",
+          "date": "2026-02-04T12:41:25.501Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 001": [
+        {
+          "grade": 92,
+          "term": "1Y-2S",
+          "date": "2026-02-04T12:41:38.567Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Math 121E": [
+        {
+          "grade": 77,
+          "term": "1Y-2S",
+          "date": "2026-02-04T12:41:49.073Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Phy 121E": [
+        {
+          "grade": 78,
+          "term": "1Y-2S",
+          "date": "2026-02-04T12:41:59.498Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Bio 1": [
+        {
+          "grade": 91,
+          "term": "1Y-2S",
+          "date": "2026-02-04T12:42:16.830Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Soil Sci 1": [
+        {
+          "grade": 83,
+          "term": "1Y-2S",
+          "date": "2026-02-04T12:42:27.703Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "PE 12": [
+        {
+          "grade": 96,
+          "term": "1Y-2S",
+          "date": "2026-02-04T12:42:42.046Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "NSTP 2": [
+        {
+          "grade": 87,
+          "term": "1Y-2S",
+          "date": "2026-02-04T12:42:53.335Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 007": [
+        {
+          "grade": 98,
+          "term": "2Y-1S",
+          "date": "2026-02-04T12:43:32.380Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "An Sci 1": [
+        {
+          "grade": 95,
+          "term": "2Y-1S",
+          "date": "2026-02-04T12:43:41.558Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Crop Sci 1": [
+        {
+          "grade": 81,
+          "term": "2Y-1S",
+          "date": "2026-02-04T12:44:01.278Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 211": [
+        {
+          "grade": 75,
+          "term": "2Y-1S",
+          "date": "2026-02-04T12:44:11.519Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Math 211E": [
+        {
+          "grade": 86,
+          "term": "2Y-1S",
+          "date": "2026-02-04T12:44:20.228Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 212": [
+        {
+          "grade": 92,
+          "term": "2Y-1S",
+          "date": "2026-02-04T12:44:33.828Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "PE 13": [
+        {
+          "grade": 90,
+          "term": "2Y-1S",
+          "date": "2026-02-04T12:44:43.572Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Math 221E": [
+        {
+          "grade": 86,
+          "term": "2Y-1S",
+          "date": "2026-02-04T12:45:05.260Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "GEC 108": [
+        {
+          "grade": 83,
+          "term": "2Y-2S",
+          "date": "2026-02-04T12:45:59.811Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        },
+        {
+          "grade": 95,
+          "term": "2Y-2S",
+          "date": "2026-02-04T12:46:38.491Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 107": [
+        {
+          "grade": 83,
+          "term": "2Y-2S",
+          "date": "2026-02-04T12:46:07.509Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 105": [
+        {
+          "grade": 96,
+          "term": "2Y-2S",
+          "date": "2026-02-04T12:46:59.577Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 006": [
+        {
+          "grade": 91,
+          "term": "2Y-2S",
+          "date": "2026-02-04T12:47:11.716Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 014": [
+        {
+          "grade": 81,
+          "term": "2Y-2S",
+          "date": "2026-02-04T12:47:26.719Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 016": [
+        {
+          "grade": 89,
+          "term": "2Y-2S",
+          "date": "2026-02-04T12:47:38.130Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "COMP 1": [
+        {
+          "grade": 94,
+          "term": "2Y-2S",
+          "date": "2026-02-04T12:48:03.688Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "PE 14": [
+        {
+          "grade": 91,
+          "term": "2Y-2S",
+          "date": "2026-02-04T12:48:16.658Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ABE 311": [
+        {
+          "grade": 80,
+          "term": "3Y-1S",
+          "date": "2026-02-04T12:48:58.846Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 312": [
+        {
+          "grade": 75,
+          "term": "3Y-1S",
+          "date": "2026-02-04T12:49:12.602Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "GEC 109": [
+        {
+          "grade": 95,
+          "term": "3Y-1S",
+          "date": "2026-02-04T12:49:27.485Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "GEC 106": [
+        {
+          "grade": 94,
+          "term": "3Y-1S",
+          "date": "2026-02-04T12:49:38.148Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ES 002": [
+        {
+          "grade": 88,
+          "term": "3Y-1S",
+          "date": "2026-02-04T12:49:52.377Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ES 009": [
+        {
+          "grade": 82,
+          "term": "3Y-1S",
+          "date": "2026-02-04T12:49:57.754Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [
+      "ABE 314"
+    ],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1770267303806
+  },
+  "Apostol, Sean Jewel A.": {
+    "year": 3,
+    "semester": 2,
+    "section": "A",
+    "grades": {
+      "GEC 103": 92,
+      "GEC 104": 94,
+      "Chem 111E": 82,
+      "Math 111E": 83,
+      "ABE 111": 91,
+      "PE 11": 98,
+      "NSTP 1": 94,
+      "GE Elect 24": 80,
+      "GE Elect 25": 79,
+      "GE Elect 26": 92,
+      "GEC 102": 80,
+      "GEC 101": 92,
+      "ES 001": 90,
+      "Math 121E": 81,
+      "Phy 121E": 76,
+      "Bio 1": 94,
+      "Soil Sci 1": 82,
+      "PE 12": 97,
+      "NSTP 2": 92,
+      "ES 007": 95,
+      "An Sci 1": 95,
+      "Crop Sci 1": 79,
+      "ABE 211": 82,
+      "Math 211E": 86,
+      "ABE 212": 92,
+      "PE 13": 95,
+      "Math 221E": 91,
+      "GEC 108": 96,
+      "GEC 107": 81,
+      "GEC 105": 96,
+      "ES 006": 96,
+      "ES 014": 86,
+      "ES 016": 88,
+      "COMP 1": 94,
+      "PE 14": 91,
+      "GEC 109": 95,
+      "GEC 106": 94,
+      "ES 002": 88,
+      "ES 009": 86,
+      "ABE 311": 85,
+      "ABE 312": 86
+    },
+    "gradeHistory": {
+      "GEC 103": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-03T08:36:09.130Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 104": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-03T08:36:26.419Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 82,
+          "term": "1Y-1S",
+          "date": "2026-02-03T08:36:33.234Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 83,
+          "term": "1Y-1S",
+          "date": "2026-02-03T08:36:42.887Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 91,
+          "term": "1Y-1S",
+          "date": "2026-02-03T08:36:51.171Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "PE 11": [
+        {
+          "grade": 98,
+          "term": "1Y-1S",
+          "date": "2026-02-03T08:37:00.478Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-03T08:37:06.875Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 80,
+          "term": "1Y-1S",
+          "date": "2026-02-03T08:37:16.416Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 79,
+          "term": "1Y-1S",
+          "date": "2026-02-03T08:37:20.885Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 26": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-03T08:37:45.320Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 102": [
+        {
+          "grade": 80,
+          "term": "1Y-2S",
+          "date": "2026-02-03T08:38:09.725Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 101": [
+        {
+          "grade": 92,
+          "term": "1Y-2S",
+          "date": "2026-02-03T08:38:19.111Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 001": [
+        {
+          "grade": 90,
+          "term": "1Y-2S",
+          "date": "2026-02-03T08:38:25.209Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Math 121E": [
+        {
+          "grade": 81,
+          "term": "1Y-2S",
+          "date": "2026-02-03T08:38:36.135Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Phy 121E": [
+        {
+          "grade": 76,
+          "term": "1Y-2S",
+          "date": "2026-02-03T08:38:40.159Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Bio 1": [
+        {
+          "grade": 94,
+          "term": "1Y-2S",
+          "date": "2026-02-03T08:38:47.974Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "Soil Sci 1": [
+        {
+          "grade": 82,
+          "term": "1Y-2S",
+          "date": "2026-02-03T08:38:55.023Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "PE 12": [
+        {
+          "grade": 97,
+          "term": "1Y-2S",
+          "date": "2026-02-03T08:39:01.555Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "NSTP 2": [
+        {
+          "grade": 92,
+          "term": "1Y-2S",
+          "date": "2026-02-03T08:39:06.702Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 007": [
+        {
+          "grade": 95,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:39:46.091Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "An Sci 1": [
+        {
+          "grade": 95,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:39:57.359Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Crop Sci 1": [
+        {
+          "grade": 79,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:40:02.762Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 211": [
+        {
+          "grade": 82,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:40:07.386Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Math 211E": [
+        {
+          "grade": 86,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:40:14.174Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 212": [
+        {
+          "grade": 92,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:40:22.389Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "PE 13": [
+        {
+          "grade": 95,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:40:30.644Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "Math 221E": [
+        {
+          "grade": 91,
+          "term": "2Y-1S",
+          "date": "2026-02-03T08:40:37.993Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 1
+          }
+        }
+      ],
+      "GEC 108": [
+        {
+          "grade": 96,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:41:04.635Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 107": [
+        {
+          "grade": 81,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:41:10.963Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 105": [
+        {
+          "grade": 96,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:41:17.299Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 006": [
+        {
+          "grade": 96,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:41:26.532Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 014": [
+        {
+          "grade": 86,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:41:32.626Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "ES 016": [
+        {
+          "grade": 88,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:41:46.099Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "COMP 1": [
+        {
+          "grade": 94,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:41:51.164Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "PE 14": [
+        {
+          "grade": 91,
+          "term": "2Y-2S",
+          "date": "2026-02-03T08:42:02.907Z",
+          "yearSem": {
+            "year": 2,
+            "sem": 2
+          }
+        }
+      ],
+      "GEC 109": [
+        {
+          "grade": 95,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:42:37.587Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "GEC 106": [
+        {
+          "grade": 94,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:42:42.611Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ES 002": [
+        {
+          "grade": 88,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:42:49.427Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ES 009": [
+        {
+          "grade": 86,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:42:54.667Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 311": [
+        {
+          "grade": 85,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:43:10.556Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ],
+      "ABE 312": [
+        {
+          "grade": 86,
+          "term": "3Y-1S",
+          "date": "2026-02-03T08:43:16.948Z",
+          "yearSem": {
+            "year": 3,
+            "sem": 1
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [
+      "ABE 314"
+    ],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1770267303807
   }
 }
