@@ -32495,8 +32495,8 @@
   },
   "Callueng, Elmer John D.": {
     "year": 4,
-    "semester": "SUM",
-    "section": "A",
+    "semester": 2,
+    "section": "b",
     "grades": {
       "GEC 101": 92,
       "GEC 104": 89,
@@ -33150,7 +33150,7 @@
     ],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1770713421269
+    "lastModified": 1770713588734
   },
   "Carodan, Donna Raven B.": {
     "year": 4,
