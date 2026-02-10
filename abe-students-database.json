@@ -13254,7 +13254,7 @@
   },
   "Agaceta, Michaela Shen C.": {
     "year": 3,
-    "semester": 1,
+    "semester": 2,
     "section": "A",
     "grades": {
       "GE Elect 26": 93,
@@ -13795,11 +13795,12 @@
       ]
     },
     "enrolledSubjects": [
+      "ABE 314",
       "ABE 314"
     ],
-    "status": "REGULAR",
+    "status": "IRREGULAR",
     "failedSubjects": [],
-    "lastModified": 1770691505867
+    "lastModified": 1770691514802
   },
   "Romero, Lebron James B.": {
     "year": 3,
