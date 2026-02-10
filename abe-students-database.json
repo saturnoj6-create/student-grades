@@ -37693,8 +37693,8 @@
   },
   "GELVOLIGO, ZEDREN NICOLE R": {
     "year": 4,
-    "semester": "SUM",
-    "section": "A",
+    "semester": 2,
+    "section": "B",
     "grades": {
       "GEC 101": 95,
       "GEC 104": 91,
@@ -38371,7 +38371,7 @@
     ],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1770713421270
+    "lastModified": 1770713646267
   },
   "Olea, Reymart P.": {
     "year": 4,
