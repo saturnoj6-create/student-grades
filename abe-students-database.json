@@ -30471,8 +30471,8 @@
   },
   "BAYAUA, POP JHON": {
     "year": 4,
-    "semester": "SUM",
-    "section": "A",
+    "semester": 2,
+    "section": "b",
     "grades": {
       "GEC 101": 95,
       "GEC 104": 91,
@@ -31149,7 +31149,7 @@
     ],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1770713421268
+    "lastModified": 1770713550184
   },
   "Biraquit, Mark Joseph S.": {
     "year": 2,
