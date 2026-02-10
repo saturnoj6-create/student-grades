@@ -27282,8 +27282,8 @@
     "lastModified": 1770708717017
   },
   "Arteta, Jhanelle Creyzha I.": {
-    "year": 2,
-    "semester": "SUM",
+    "year": 3,
+    "semester": 1,
     "section": "A",
     "grades": {
       "GEC 104": 93,
@@ -27797,7 +27797,7 @@
       "ABE 314"
     ],
     "status": "REGULAR",
-    "lastModified": 1770708717017,
+    "lastModified": 1770708793259,
     "failedSubjects": []
   }
 }
