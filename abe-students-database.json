@@ -42920,7 +42920,11 @@
       "NSTP 2",
       "ABE OJT",
       "ABE 411",
-      "ABE 413"
+      "ABE 413",
+      "ABE 414",
+      "ABE 415",
+      "ABE 416",
+      "ABE 421"
     ],
     "status": "IRREGULAR",
     "failedSubjects": [
@@ -42958,8 +42962,24 @@
       "ABE 413": {
         "year": 4,
         "semester": 2
+      },
+      "ABE 414": {
+        "year": 4,
+        "semester": 2
+      },
+      "ABE 415": {
+        "year": 4,
+        "semester": 2
+      },
+      "ABE 416": {
+        "year": 4,
+        "semester": 2
+      },
+      "ABE 421": {
+        "year": 4,
+        "semester": 2
       }
     },
-    "lastModified": 1770768494498
+    "lastModified": 1770768503848
   }
 }
