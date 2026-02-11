@@ -42318,7 +42318,8 @@
       "ABE 328": 88,
       "PE 14": 93,
       "ES 004": 81,
-      "ABE 325": 70
+      "ABE 325": 70,
+      "ABE 414": 70
     },
     "gradeHistory": {
       "GEC 101": [
@@ -42911,6 +42912,17 @@
             "sem": 2
           }
         }
+      ],
+      "ABE 414": [
+        {
+          "grade": 70,
+          "term": "4Y-1S",
+          "date": "2026-02-11T00:21:27.019Z",
+          "yearSem": {
+            "year": 4,
+            "sem": 1
+          }
+        }
       ]
     },
     "enrolledSubjects": [
@@ -42933,6 +42945,11 @@
         "code": "ABE 325",
         "name": "AB Machinery and Mechanization",
         "term": "3Y-2S"
+      },
+      {
+        "code": "ABE 414",
+        "name": "Plant and Livestock Systems and Environmental Control Engineering",
+        "term": "4Y-1S"
       }
     ],
     "retakeSchedule": {
@@ -42985,6 +43002,6 @@
         "semester": 2
       }
     },
-    "lastModified": 1770769281162
+    "lastModified": 1770769287019
   }
 }
