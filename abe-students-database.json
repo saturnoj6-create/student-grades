@@ -42918,7 +42918,9 @@
       "ABE 422",
       "ABE 325",
       "NSTP 2",
-      "ABE OJT"
+      "ABE OJT",
+      "ABE 411",
+      "ABE 413"
     ],
     "status": "IRREGULAR",
     "failedSubjects": [
@@ -42948,8 +42950,16 @@
       "ABE OJT": {
         "year": 4,
         "semester": 2
+      },
+      "ABE 411": {
+        "year": 4,
+        "semester": 2
+      },
+      "ABE 413": {
+        "year": 4,
+        "semester": 2
       }
     },
-    "lastModified": 1770768490960
+    "lastModified": 1770768494498
   }
 }
