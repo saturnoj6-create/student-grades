@@ -42914,11 +42914,11 @@
       ]
     },
     "enrolledSubjects": [
-      "ABE 421",
-      "ABE 423",
       "ABE 424",
       "ABE 422",
-      "ABE 325"
+      "ABE 325",
+      "NSTP 2",
+      "ABE OJT"
     ],
     "status": "IRREGULAR",
     "failedSubjects": [
@@ -42929,14 +42929,6 @@
       }
     ],
     "retakeSchedule": {
-      "ABE 421": {
-        "year": 4,
-        "semester": 2
-      },
-      "ABE 423": {
-        "year": 4,
-        "semester": 2
-      },
       "ABE 424": {
         "year": 4,
         "semester": 2
@@ -42948,8 +42940,16 @@
       "ABE 325": {
         "year": 4,
         "semester": 2
+      },
+      "NSTP 2": {
+        "year": 4,
+        "semester": 2
+      },
+      "ABE OJT": {
+        "year": 4,
+        "semester": 2
       }
     },
-    "lastModified": 1770768475548
+    "lastModified": 1770768490960
   }
 }
