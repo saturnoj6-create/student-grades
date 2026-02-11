@@ -42265,7 +42265,7 @@
   },
   "BORJA, RHODEL VERZON": {
     "year": 4,
-    "semester": 1,
+    "semester": 2,
     "section": "B",
     "grades": {
       "GEC 101": 93,
@@ -42916,6 +42916,11 @@
     "enrolledSubjects": [
       "ABE 325",
       "ABE 325",
+      "ABE 411",
+      "ABE 413",
+      "ABE 414",
+      "ABE 415",
+      "ABE 416",
       "ABE OJT",
       "NSTP 2",
       "ABE 411",
@@ -42972,6 +42977,6 @@
         "semester": 2
       }
     },
-    "lastModified": 1770768349271
+    "lastModified": 1770768380930
   }
 }
