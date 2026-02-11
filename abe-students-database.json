@@ -42264,7 +42264,7 @@
     "lastModified": 1770713793746
   },
   "BORJA, RHODEL VERZON": {
-    "year": 4,
+    "year": 2,
     "semester": 1,
     "section": "B",
     "grades": {
@@ -42927,14 +42927,8 @@
       "ABE 416",
       "ABE 422"
     ],
-    "status": "IRREGULAR",
-    "failedSubjects": [
-      {
-        "code": "ABE 325",
-        "name": "AB Machinery and Mechanization",
-        "term": "3Y-2S"
-      }
-    ],
+    "status": "REGULAR",
+    "failedSubjects": [],
     "retakeSchedule": {
       "ABE 421": {
         "year": 4,
@@ -42969,6 +42963,6 @@
         "semester": 2
       }
     },
-    "lastModified": 1770768109520
+    "lastModified": 1770768246997
   }
 }
