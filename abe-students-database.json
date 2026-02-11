@@ -42265,7 +42265,7 @@
   },
   "BORJA, RHODEL VERZON": {
     "year": 3,
-    "semester": 1,
+    "semester": 2,
     "section": "B",
     "grades": {
       "GEC 101": 93,
@@ -42915,6 +42915,7 @@
     },
     "enrolledSubjects": [
       "ABE 325",
+      "NSTP 2",
       "ABE 411",
       "ABE 414",
       "ABE OJT",
@@ -42927,8 +42928,14 @@
       "ABE 416",
       "ABE 422"
     ],
-    "status": "REGULAR",
-    "failedSubjects": [],
+    "status": "IRREGULAR",
+    "failedSubjects": [
+      {
+        "code": "ABE 325",
+        "name": "AB Machinery and Mechanization",
+        "term": "3Y-2S"
+      }
+    ],
     "retakeSchedule": {
       "ABE 421": {
         "year": 4,
@@ -42963,6 +42970,6 @@
         "semester": 2
       }
     },
-    "lastModified": 1770768299544
+    "lastModified": 1770768310407
   }
 }
