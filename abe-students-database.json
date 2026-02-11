@@ -42914,18 +42914,14 @@
       ]
     },
     "enrolledSubjects": [
-      "ABE 413",
-      "ABE 414",
       "ABE 415",
       "ABE 416",
       "ABE OJT",
       "NSTP 2",
-      "ABE 414",
       "ABE OJT",
       "ABE 421",
       "ABE 423",
       "ABE 424",
-      "ABE 413",
       "NSTP 2",
       "ABE 415",
       "ABE 416",
@@ -42953,10 +42949,6 @@
         "year": 4,
         "semester": 2
       },
-      "ABE 413": {
-        "year": 4,
-        "semester": 2
-      },
       "NSTP 2": {
         "year": 4,
         "semester": 2
@@ -42978,6 +42970,6 @@
         "semester": 2
       }
     },
-    "lastModified": 1770768462330
+    "lastModified": 1770768470096
   }
 }
