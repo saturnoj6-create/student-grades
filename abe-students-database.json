@@ -42931,7 +42931,8 @@
       "NSTP 2",
       "ABE 415",
       "ABE 416",
-      "ABE 422"
+      "ABE 422",
+      "ABE 325"
     ],
     "status": "IRREGULAR",
     "failedSubjects": [
@@ -42973,8 +42974,12 @@
       "ABE 422": {
         "year": 4,
         "semester": 2
+      },
+      "ABE 325": {
+        "year": 4,
+        "semester": 2
       }
     },
-    "lastModified": 1770768405366
+    "lastModified": 1770768419849
   }
 }
