@@ -13462,7 +13462,10 @@
           "yearSem": {
             "year": 1,
             "sem": 2
-          }
+          },
+          "deleted": true,
+          "deletedDate": "2026-02-11T00:46:00.939Z",
+          "deletedBy": "Admin"
         },
         {
           "grade": 76,
@@ -13800,7 +13803,7 @@
     ],
     "status": "IRREGULAR",
     "failedSubjects": [],
-    "lastModified": 1770691514802
+    "lastModified": 1770770760941
   },
   "Romero, Lebron James B.": {
     "year": 3,
