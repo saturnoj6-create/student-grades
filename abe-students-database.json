@@ -42924,7 +42924,8 @@
       "ABE 414",
       "ABE 415",
       "ABE 416",
-      "ABE 421"
+      "ABE 421",
+      "ABE 423"
     ],
     "status": "IRREGULAR",
     "failedSubjects": [
@@ -42978,8 +42979,12 @@
       "ABE 421": {
         "year": 4,
         "semester": 2
+      },
+      "ABE 423": {
+        "year": 4,
+        "semester": 2
       }
     },
-    "lastModified": 1770768503848
+    "lastModified": 1770768510928
   }
 }
