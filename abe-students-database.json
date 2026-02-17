@@ -58430,7 +58430,7 @@
   },
   "Telan, Rosamil D.": {
     "year": 3,
-    "semester": 2,
+    "semester": "SUM",
     "section": "A",
     "grades": {
       "GEC 101": 93,
@@ -59118,12 +59118,13 @@
       ]
     },
     "enrolledSubjects": [
-      "ABE OJT",
-      "ABE 414"
+      "ABE 414",
+      "ABE 325",
+      "ABE OJT"
     ],
-    "status": "REGULAR",
+    "status": "IRREGULAR",
     "failedSubjects": [],
-    "lastModified": 1771335039237,
+    "lastModified": 1771335101736,
     "retakeSchedule": {
       "ABE 414": {
         "year": 3,
