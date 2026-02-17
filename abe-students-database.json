@@ -59118,12 +59118,18 @@
       ]
     },
     "enrolledSubjects": [
-      "ABE 414",
-      "ABE OJT"
+      "ABE OJT",
+      "ABE 414"
     ],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1771334975053
+    "lastModified": 1771335039237,
+    "retakeSchedule": {
+      "ABE 414": {
+        "year": 3,
+        "semester": 2
+      }
+    }
   },
   "Telan, Kristine Faith D.": {
     "year": 4,
