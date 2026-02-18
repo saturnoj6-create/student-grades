@@ -77901,7 +77901,8 @@
       "ABE 111": 94,
       "NSTP 1": 96,
       "GE Elect 24": 86,
-      "GE Elect 25": 91
+      "GE Elect 25": 91,
+      "GEC 103": 95
     },
     "gradeHistory": {
       "GEC 104": [
@@ -77980,12 +77981,23 @@
             "sem": "1"
           }
         }
+      ],
+      "GEC 103": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-18T03:33:38.873Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 1
+          }
+        }
       ]
     },
     "enrolledSubjects": [],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1771385572022
+    "lastModified": 1771385618873
   },
   "Trixy M. Belango": {
     "year": 1,
