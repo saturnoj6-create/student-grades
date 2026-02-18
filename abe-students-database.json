@@ -77892,7 +77892,7 @@
   },
   "Belango, Trixy ": {
     "year": 1,
-    "semester": "1",
+    "semester": 1,
     "section": "A",
     "grades": {
       "GEC 104": 94,
@@ -77985,7 +77985,7 @@
     "enrolledSubjects": [],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1771385503117
+    "lastModified": 1771385572022
   },
   "Trixy M. Belango": {
     "year": 1,
