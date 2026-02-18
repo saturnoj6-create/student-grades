@@ -76875,7 +76875,7 @@
         "term": "4Y-2S"
       }
     ],
-    "lastModified": 1771385033182
+    "lastModified": 1771385076871
   },
   "Aguinaldo, Hanz Christian A.": {
     "year": 1,
@@ -77194,112 +77194,6 @@
           "grade": 82,
           "term": "1Y-1S",
           "date": "2026-02-15T08:00:33.738Z",
-          "yearSem": {
-            "year": 1,
-            "sem": "1"
-          }
-        }
-      ]
-    },
-    "enrolledSubjects": [],
-    "status": "REGULAR",
-    "failedSubjects": [],
-    "lastModified": 1771384944499
-  },
-  "Tayamin, Apple Joy Urmanita": {
-    "year": 1,
-    "semester": "1",
-    "section": "B",
-    "grades": {
-      "GEC 103": 95,
-      "Chem 111E": 81,
-      "Math 111E": 77,
-      "PE 11": 94,
-      "NSTP 1": 93,
-      "GE Elect 24": 84,
-      "GE Elect 25": 81
-    },
-    "gradeHistory": {
-      "GEC 103": [
-        {
-          "grade": 95,
-          "term": "1Y-1S",
-          "date": "2026-02-17T07:19:01.891Z",
-          "yearSem": {
-            "year": 1,
-            "sem": "1"
-          }
-        }
-      ],
-      "Chem 111E": [
-        {
-          "grade": 81,
-          "term": "1Y-1S",
-          "date": "2026-02-17T07:19:08.118Z",
-          "yearSem": {
-            "year": 1,
-            "sem": "1"
-          }
-        }
-      ],
-      "Math 111E": [
-        {
-          "grade": 77,
-          "term": "1Y-1S",
-          "date": "2026-02-17T07:19:13.255Z",
-          "yearSem": {
-            "year": 1,
-            "sem": "1"
-          }
-        }
-      ],
-      "PE 11": [
-        {
-          "grade": 94,
-          "term": "1Y-1S",
-          "date": "2026-02-17T07:19:19.197Z",
-          "yearSem": {
-            "year": 1,
-            "sem": "1"
-          }
-        }
-      ],
-      "NSTP 1": [
-        {
-          "grade": 93,
-          "term": "1Y-1S",
-          "date": "2026-02-17T07:19:23.529Z",
-          "yearSem": {
-            "year": 1,
-            "sem": "1"
-          }
-        }
-      ],
-      "GE Elect 24": [
-        {
-          "grade": 84,
-          "term": "1Y-1S",
-          "date": "2026-02-17T07:19:55.109Z",
-          "yearSem": {
-            "year": 1,
-            "sem": "1"
-          }
-        }
-      ],
-      "GE Elect 25": [
-        {
-          "grade": 82,
-          "term": "1Y-1S",
-          "date": "2026-02-17T07:19:59.523Z",
-          "yearSem": {
-            "year": 1,
-            "sem": "1"
-          }
-        },
-        {
-          "grade": 81,
-          "term": "1Y-1S",
-          "date": "2026-02-17T07:20:11.094Z",
           "yearSem": {
             "year": 1,
             "sem": "1"
