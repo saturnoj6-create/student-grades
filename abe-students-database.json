@@ -63531,7 +63531,7 @@
   },
   "Villena,Renz Patrick L.": {
     "year": 1,
-    "semester": 2,
+    "semester": 1,
     "section": "A",
     "grades": {
       "GEC 104": 93,
@@ -63637,9 +63637,9 @@
       "GEC 103",
       "ABE 111"
     ],
-    "status": "IRREGULAR",
+    "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1771250429536
+    "lastModified": 1771385124650
   },
   "Villena, Renz Patrick L.": {
     "year": 1,
