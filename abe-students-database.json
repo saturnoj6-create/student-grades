@@ -23148,7 +23148,7 @@
     "enrolledSubjects": [],
     "status": "REGULAR",
     "failedSubjects": [],
-    "lastModified": 1771373877837
+    "lastModified": 1771384995457
   },
   "CHUA,MARK ADRIAN B.": {
     "year": 3,
@@ -63527,40 +63527,6 @@
     "gradeHistory": {},
     "enrolledSubjects": [],
     "status": "REGULAR",
-    "lastModified": 1771250429536
-  },
-  "L., Villena Renz Patrick": {
-    "year": 1,
-    "semester": "1",
-    "section": "A",
-    "grades": {
-      "GEC 104": 93
-    },
-    "gradeHistory": {
-      "GEC 104": [
-        {
-          "grade": 93,
-          "term": "1Y-1S",
-          "date": "2026-02-12T14:24:37.642Z",
-          "yearSem": {
-            "year": 1,
-            "sem": "1"
-          }
-        },
-        {
-          "grade": 93,
-          "term": "1Y-1S",
-          "date": "2026-02-12T14:24:49.973Z",
-          "yearSem": {
-            "year": 1,
-            "sem": "1"
-          }
-        }
-      ]
-    },
-    "enrolledSubjects": [],
-    "status": "REGULAR",
-    "failedSubjects": [],
     "lastModified": 1771250429536
   },
   "Villena,Renz Patrick L.": {
