@@ -77108,5 +77108,1544 @@
     "status": "REGULAR",
     "failedSubjects": [],
     "lastModified": 1771384944499
+  },
+  "Aglugob, Jianne Charity P.": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "GEC 104": 96,
+      "GE Elect 25": 92,
+      "GE Elect 24": 92,
+      "NSTP 1": 96,
+      "ABE 111": 94,
+      "Math 111E": 83,
+      "Chem 111E": 90
+    },
+    "gradeHistory": {
+      "GEC 104": [
+        {
+          "grade": 96,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:57:29.319Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:57:41.382Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:57:47.823Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 96,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:57:52.858Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:57:59.558Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 83,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:58:06.853Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 90,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:58:12.596Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503116
+  },
+  "Ayudan, Princess Jane E.": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "GE Elect 26": 92,
+      "GE Elect 25": 88,
+      "NSTP 1": 94,
+      "Math 111E": 79,
+      "Chem 111E": 85
+    },
+    "gradeHistory": {
+      "GE Elect 26": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:21:09.905Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          },
+          "corrected": true,
+          "correctionDate": "2026-02-13T03:21:17.494Z",
+          "originalGrade": 92
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 88,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:21:26.173Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          },
+          "corrected": true,
+          "correctionDate": "2026-02-13T03:21:31.555Z",
+          "originalGrade": 88
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:21:39.058Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          },
+          "corrected": true,
+          "correctionDate": "2026-02-13T03:21:43.966Z",
+          "originalGrade": 94
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 79,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:21:54.762Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          },
+          "corrected": true,
+          "correctionDate": "2026-02-13T03:21:59.884Z",
+          "originalGrade": 79
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 85,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:22:06.716Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          },
+          "corrected": true,
+          "correctionDate": "2026-02-13T03:22:11.691Z",
+          "originalGrade": 85
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503116
+  },
+  "Arellano, Rafael Dulpina": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "GE Elect 26": 92,
+      "Chem 111E": 80,
+      "NSTP 1": 95,
+      "GE Elect 25": 83
+    },
+    "gradeHistory": {
+      "GE Elect 26": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-04T08:47:12.100Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        },
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-04T08:48:14.199Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          },
+          "corrected": true,
+          "correctionDate": "2026-02-04T08:48:22.820Z",
+          "originalGrade": 92
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 80,
+          "term": "1Y-1S",
+          "date": "2026-02-04T08:50:31.948Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-04T08:51:06.048Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 83,
+          "term": "1Y-1S",
+          "date": "2026-02-04T08:51:15.138Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503116
+  },
+  "Danguilan, Frincefer Jade Abad": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "Chem 111E": 82,
+      "Math 111E": 81,
+      "NSTP 1": 93,
+      "GE Elect 24": 92,
+      "GE Elect 25": 84
+    },
+    "gradeHistory": {
+      "Chem 111E": [
+        {
+          "grade": 82,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:48:15.365Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 81,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:48:27.092Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 93,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:48:42.948Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:48:52.751Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 84,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:49:09.022Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503116
+  },
+  "Datiles, Andrea Mae Taguinod": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "Chem 111E": 82,
+      "Math 111E": 80,
+      "NSTP 1": 92,
+      "GE Elect 24": 83,
+      "GE Elect 25": 84
+    },
+    "gradeHistory": {
+      "Chem 111E": [
+        {
+          "grade": 82,
+          "term": "1Y-1S",
+          "date": "2026-02-15T08:37:33.878Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 80,
+          "term": "1Y-1S",
+          "date": "2026-02-15T08:37:50.657Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-15T08:38:21.871Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 83,
+          "term": "1Y-1S",
+          "date": "2026-02-15T08:38:31.774Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 84,
+          "term": "1Y-1S",
+          "date": "2026-02-15T08:38:39.044Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503116
+  },
+  "DELAROSA, IAN RAFAEL T.": {
+    "year": 1,
+    "semester": 1,
+    "section": "A",
+    "grades": {
+      "GE Elect 25": 87,
+      "NSTP 1": 95,
+      "Chem 111E": 81,
+      "GE Elect 24": 81,
+      "Math 111E": 70
+    },
+    "gradeHistory": {
+      "GE Elect 25": [
+        {
+          "grade": 87,
+          "term": "1Y-1S",
+          "date": "2026-02-04T13:46:53.383Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-04T13:47:39.676Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 81,
+          "term": "1Y-1S",
+          "date": "2026-02-04T13:49:07.136Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 81,
+          "term": "1Y-1S",
+          "date": "2026-02-04T13:53:21.483Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 70,
+          "term": "1Y-1S",
+          "date": "2026-02-04T13:53:28.179Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [
+      "Math 111E",
+      "GEC 103",
+      "GEC 104",
+      "ABE 111",
+      "PE 11",
+      "GE Elect 26"
+    ],
+    "status": "IRREGULAR",
+    "failedSubjects": [
+      {
+        "code": "Math 111E",
+        "name": "Calculus I",
+        "term": "1Y-1S"
+      }
+    ],
+    "lastModified": 1771385503116
+  },
+  "Duman-ag, Dra Grace Domingo": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "GEC 104": 94,
+      "Chem 111E": 92,
+      "Math 111E": 81,
+      "ABE 111": 95,
+      "NSTP 1": 96,
+      "GE Elect 24": 93,
+      "GE Elect 25": 90
+    },
+    "gradeHistory": {
+      "GEC 104": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:41:35.631Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:41:41.666Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 81,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:41:46.148Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:41:51.766Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 96,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:42:03.941Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 93,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:42:14.021Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 90,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:42:19.129Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503116
+  },
+  "Cortes, Glyza Mae B.": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "GEC 104": 94,
+      "Chem 111E": 89,
+      "Math 111E": 83,
+      "ABE 111": 97,
+      "NSTP 1": 94,
+      "GE Elect 24": 92,
+      "GE Elect 25": 83
+    },
+    "gradeHistory": {
+      "GEC 104": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T04:34:19.628Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 89,
+          "term": "1Y-1S",
+          "date": "2026-02-13T04:34:23.474Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 83,
+          "term": "1Y-1S",
+          "date": "2026-02-13T04:34:29.560Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 97,
+          "term": "1Y-1S",
+          "date": "2026-02-13T04:34:34.407Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T04:34:43.929Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-13T04:34:52.126Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 83,
+          "term": "1Y-1S",
+          "date": "2026-02-13T04:34:59.139Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503116
+  },
+  "Campo, Mc Lester C.": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "Math 111E": 86,
+      "Chem 111E": 87,
+      "GEC 104": 94,
+      "ABE 111": 96,
+      "GE Elect 24": 92,
+      "GE Elect 25": 92,
+      "NSTP 1": 95
+    },
+    "gradeHistory": {
+      "Math 111E": [
+        {
+          "grade": 86,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:11:46.007Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 87,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:12:02.769Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 104": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:12:17.115Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 96,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:12:34.614Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:12:41.641Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:12:47.167Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-04T09:13:41.747Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503117
+  },
+  "Belango, Trixy ": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "GEC 104": 94,
+      "Chem 111E": 83,
+      "Math 111E": 81,
+      "ABE 111": 94,
+      "NSTP 1": 96,
+      "GE Elect 24": 86,
+      "GE Elect 25": 91
+    },
+    "gradeHistory": {
+      "GEC 104": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:49:03.388Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 83,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:49:15.014Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 81,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:49:26.300Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:49:33.015Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 96,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:49:43.837Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 86,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:49:55.907Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 91,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:50:00.485Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503117
+  },
+  "Trixy M. Belango": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "GEC 104": 94,
+      "GEC 103": 95,
+      "Chem 111E": 83,
+      "Math 111E": 81,
+      "ABE 111": 94,
+      "NSTP 1": 96,
+      "GE Elect 24": 86,
+      "GE Elect 25": 91
+    },
+    "gradeHistory": {
+      "GEC 104": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:37:02.526Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 103": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:37:15.295Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          },
+          "corrected": true,
+          "correctionDate": "2026-02-13T02:41:45.493Z",
+          "originalGrade": 95
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 83,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:39:24.836Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 81,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:39:49.751Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:40:03.730Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 96,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:40:12.891Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 86,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:40:24.419Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 91,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:40:29.294Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503117
+  },
+  "Narcise, Crislan Maxiguille C.": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "Chem 111E": 83,
+      "Math 111E": 80,
+      "NSTP 1": 95,
+      "GE Elect 24": 91,
+      "GE Elect 25": 90
+    },
+    "gradeHistory": {
+      "Chem 111E": [
+        {
+          "grade": 83,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:07:47.629Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          },
+          "corrected": true,
+          "correctionDate": "2026-02-13T02:08:02.451Z",
+          "originalGrade": 83
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 80,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:10:05.961Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:10:16.128Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 91,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:10:28.966Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 90,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:10:34.390Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503117
+  },
+  "Golin, Kelvin D.": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "GEC 104": 95,
+      "Chem 111E": 85,
+      "Math 111E": 80,
+      "ABE 111": 94,
+      "NSTP 1": 94,
+      "GE Elect 24": 92,
+      "GE Elect 25": 84
+    },
+    "gradeHistory": {
+      "GEC 104": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:26:51.767Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 85,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:26:57.864Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 80,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:27:05.362Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:27:18.105Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:27:24.535Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:27:30.849Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 84,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:27:36.846Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503117
+  },
+  "SABBEN, JAY-R LLANTO": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "Chem 111E": 87,
+      "Math 111E": 81,
+      "NSTP 1": 93,
+      "GE Elect 24": 89,
+      "GE Elect 25": 88
+    },
+    "gradeHistory": {
+      "Chem 111E": [
+        {
+          "grade": 87,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:03:34.717Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 81,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:03:38.948Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 93,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:03:45.544Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 89,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:03:53.306Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 88,
+          "term": "1Y-1S",
+          "date": "2026-02-13T03:04:43.653Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503117
+  },
+  "Fullante, Emerald P.": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "GEC 103": 95,
+      "GEC 104": 95,
+      "Chem 111E": 85,
+      "Math 111E": 80,
+      "ABE 111": 95,
+      "PE 11": 95,
+      "NSTP 1": 95,
+      "GE Elect 24": 89,
+      "GE Elect 25": 90,
+      "GE Elect 26": 94
+    },
+    "gradeHistory": {
+      "GEC 103": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-13T06:24:25.327Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GEC 104": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-13T06:24:37.913Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 85,
+          "term": "1Y-1S",
+          "date": "2026-02-13T06:24:44.475Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 80,
+          "term": "1Y-1S",
+          "date": "2026-02-13T06:24:49.306Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-13T06:24:54.063Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "PE 11": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-13T06:24:58.166Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 95,
+          "term": "1Y-1S",
+          "date": "2026-02-13T06:25:05.517Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 89,
+          "term": "1Y-1S",
+          "date": "2026-02-13T06:25:14.324Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 90,
+          "term": "1Y-1S",
+          "date": "2026-02-13T06:25:17.178Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 26": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T06:25:25.687Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503117
+  },
+  "Panaga, Elaiza Kim Casticimo": {
+    "year": 1,
+    "semester": 1,
+    "section": "A",
+    "grades": {
+      "Chem 111E": 85,
+      "Math 111E": 79,
+      "NSTP 1": 92,
+      "GE Elect 25": 83,
+      "GE Elect 24": 87
+    },
+    "gradeHistory": {
+      "Chem 111E": [
+        {
+          "grade": 85,
+          "term": "1Y-1S",
+          "date": "2026-02-04T08:41:46.875Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 1
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 79,
+          "term": "1Y-1S",
+          "date": "2026-02-04T08:41:59.470Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 1
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 92,
+          "term": "1Y-1S",
+          "date": "2026-02-04T08:42:14.591Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 1
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 83,
+          "term": "1Y-1S",
+          "date": "2026-02-04T08:42:32.420Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 1
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 87,
+          "term": "1Y-1S",
+          "date": "2026-02-04T08:42:39.168Z",
+          "yearSem": {
+            "year": 1,
+            "sem": 1
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503117
+  },
+  "Oncita, Reginald Jhon T.": {
+    "year": 1,
+    "semester": "1",
+    "section": "A",
+    "grades": {
+      "GEC 104": 94,
+      "Chem 111E": 87,
+      "ABE 111": 94,
+      "NSTP 1": 94,
+      "GE Elect 24": 93,
+      "GE Elect 25": 85,
+      "Math 111E": 82
+    },
+    "gradeHistory": {
+      "GEC 104": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:42:00.771Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Chem 111E": [
+        {
+          "grade": 87,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:42:10.713Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "ABE 111": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:42:21.384Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "NSTP 1": [
+        {
+          "grade": 94,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:42:32.634Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 24": [
+        {
+          "grade": 93,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:42:47.185Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "GE Elect 25": [
+        {
+          "grade": 85,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:43:06.598Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ],
+      "Math 111E": [
+        {
+          "grade": 82,
+          "term": "1Y-1S",
+          "date": "2026-02-13T02:43:26.897Z",
+          "yearSem": {
+            "year": 1,
+            "sem": "1"
+          }
+        }
+      ]
+    },
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "failedSubjects": [],
+    "lastModified": 1771385503117
   }
 }
