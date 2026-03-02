@@ -54295,6 +54295,16 @@
     "failedSubjects": [],
     "lastModified": 1771231212684
   },
+  "MAJA NICOLE N CRISOLOGO": {
+    "year": 4,
+    "semester": "2",
+    "section": "A",
+    "grades": {},
+    "gradeHistory": {},
+    "enrolledSubjects": [],
+    "status": "REGULAR",
+    "lastModified": 1771231212684
+  },
   "CUARESMA, JOHN HAROLD C.": {
     "year": 4,
     "semester": 1,
@@ -73405,7 +73415,10 @@
           "yearSem": {
             "year": 5,
             "sem": 1
-          }
+          },
+          "corrected": true,
+          "correctionDate": "2026-03-02T07:54:05.013Z",
+          "originalGrade": 78
         }
       ]
     },
@@ -73430,7 +73443,7 @@
         "term": "4Y-2S"
       }
     ],
-    "lastModified": 1771382747087
+    "lastModified": 1772438045014
   },
   "Juan, Angela Eugenio": {
     "year": 5,
