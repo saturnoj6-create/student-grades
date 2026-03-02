@@ -70285,8 +70285,8 @@
     "lastModified": 1771382729053
   },
   "BASSIG, LAURENCE NINO S": {
-    "year": 5,
-    "semester": "SUM",
+    "year": 4,
+    "semester": 2,
     "section": "C",
     "grades": {
       "GEC 101": 87,
@@ -71025,9 +71025,9 @@
       "ABE 414",
       "ABE OJT"
     ],
-    "status": "REGULAR",
+    "status": "IRREGULAR",
     "failedSubjects": [],
-    "lastModified": 1771382830831
+    "lastModified": 1772438122853
   },
   "Camus, Kirk Patrick": {
     "year": 5,
